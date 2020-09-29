@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Evolution of Covid-19 cases worldwide visualized with React and Chart.js</strong></h2>
-## Landing Page
 
+## World Map
 ![World Map](https://i.imgur.com/dV9krys.jpg)
 
 
