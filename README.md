@@ -1,3 +1,16 @@
+<h2 align="center"><strong>Evolution of Covid-19 cases worldwide visualized with React and Chart.js</strong></h2>
+## Landing Page
+
+![World Map](https://i.imgur.com/dV9krys.jpg)
+
+
+## Statistics by country
+![Statistics for selected country](https://i.imgur.com/bafkEvb.jpg)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
